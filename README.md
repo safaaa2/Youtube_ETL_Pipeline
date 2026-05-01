@@ -233,10 +233,12 @@ Le dashboard inclut les visualisations suivantes :
 
 <img width="1167" height="650" alt="image" src="https://github.com/user-attachments/assets/47f7b69e-3396-4b60-95a6-df744bb306d3" />
 
-<img width="1158" height="652" alt="image" src="https://github.com/user-attachments/assets/a91efabe-9f50-4c8c-a83a-52594edfcc88" />
+<img width="1275" height="717" alt="image" src="https://github.com/user-attachments/assets/3f7ce83d-5717-4331-bd0b-789b418b3cf1" />
 
 
----
+
+
+
 
 ## 🔐 Sécurité
 
